@@ -5,7 +5,7 @@
 🌱 I’m currently learning how LLMs and other generative models work deep down under the hood.
 
 📫 How to reach me:
-linkedin: https://www.linkedin.com/in/arghyadip-bagchi
+linkedin: https://www.linkedin.com/in/arghyadip-bagchi/
 gmail: arghyadipbagchi@gmail.com
 
 <!---
